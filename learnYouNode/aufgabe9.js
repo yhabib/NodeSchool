@@ -8,8 +8,8 @@ var count = 0;
 for(var i=0; i<url.length; i++)
   http.get(url[i], callback(i));
 
-function callback(position) {
-  const pos = position;
+//  CLOSURE
+function callback(pos) {
   return function(response) {
     response.on('data', data => {
       result[pos] += data.toString();
