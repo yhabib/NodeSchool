@@ -1,5 +1,5 @@
 "# nodeSchoolCourses" 
 
-1. Node: learnyounode
-2. Express:
-3. MongoDB
+1. √ -- Node: learnyounode 
+2. √ -- Express: expressworks
+3. √ -- MongoDB:learnyoumongo
