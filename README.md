@@ -1,5 +1,5 @@
-"# nodeSchoolCourses" 
+# nodeSchoolCourses
 
-1. √ -- Node: learnyounode 
-2. √ -- Express: expressworks
-3. √ -- MongoDB:learnyoumongo
+1. [x] Node: learnyounode 
+2. [x] Express: expressworks
+3. [x] MongoDB:learnyoumongo
